@@ -3,6 +3,9 @@
 public class Main {
     public static void main(String[] args) {
         // hej mitt namn är Samiir du dåfefq
+        for (int i = 0 ; i< 10 ; i++){
+            System.out.println("hej");
+        }
 
     }
 }
